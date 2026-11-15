@@ -30,4 +30,4 @@
 - [WorkBuddy 企业版：技能说明](https://cloud.tencent.com/document/product/1831/134432)
 - [MiniMax H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image)｜[MOSS-Image-Base](https://modelscope.cn/models/openmoss/MOSS-Image-Base)
 
-神都猫整理。仓库只分发原创说明文件，不包含第三方代码、模型权重、数据、账户信息或密钥；上游软件、模型和素材各自遵循原有许可。
+神都猫整理。本仓库原创说明文件采用 [MIT 许可](LICENSE)，不包含第三方代码、模型权重、数据、账户信息或密钥；上游软件、模型和素材各自遵循原有许可。
