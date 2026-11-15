@@ -1,0 +1,3 @@
+interface:
+  display_name: "AI-Toolkit 本地 LoRA 训练"
+  short_description: "用智能体协助部署和验证图像 LoRA 训练"
